@@ -5,17 +5,17 @@
 
 <div class="container mb-5">
 	<div class="row">
-		<div class="col-md-12 col-lg-6 mt-5 pr-5">
+		<div class="col-md-12 col-lg-6 mt-5">
 
 			<p class="mt-5 text-center title p-2">Titre du livre</p>
 
             <div class="row mt-5">
           
-                <div class="col-lg-6">
-                    <img src="../assets/img/randomImage.jpg" alt="oui oui">
+                <div class="col-lg-6 col-md-6">
+                    <img src="../assets/img/randomImage.jpg" alt="oui oui" class="img-fluid d-block mx-auto">
                 </div>
 
-                <div class="col-lg-6 mt-5">
+                <div class="col-md-6 col-lg-6 mt-5">
                     <p>Jean Michel Mangemicro<p>
                     <p>Publié le 17/01/2019<p>
                     <p>Science Fiction</p>
